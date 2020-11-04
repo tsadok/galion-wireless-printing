@@ -1,0 +1,9 @@
+
+Things I want to do to improve Galion Wireless Printing:
+
+ * Document the full list of known dependencies.
+
+ * Write installation instructions, INSTALL.txt
+
+ * Create a script that prompts for important variables and sets them in the DB.
+

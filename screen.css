@@ -1,0 +1,62 @@
+
+html, body {
+  background-color:  #2C2C4D;
+  color:             #FFE6BC;
+  margin:            0px;
+  padding:           1em;
+}
+
+a, a:link, a:visited {
+  color:             #FFFF00;
+}
+
+table.table tr:nth-child(2n) {
+  background-color:  #070733;
+}
+table.table tr:nth-child(2n) + tr td {
+  border-top:        4pt solid #3A3A6F;
+}
+
+table.table .date {
+  color:             #F3DEFF;
+}
+
+input, select, textarea {
+  background-color:  #EEEEEE;
+  color:             #000000;
+}
+
+form.uploadform {
+  border:            3pt solid #BBBBBB;
+  border-radius:     1em;
+  padding:           1em;
+  margin-bottom:     1em;
+  background-color:  #DDDDDD;
+  color:             #000000;
+  display:           inline-block;
+}
+form.uploadform table th,
+form.uploadform table td {
+  padding-bottom:    1em;
+}
+
+table.table thead th {
+  border-bottom:     1pt solid;
+}
+
+.ready td {
+  font-weight:       bold;
+}
+.processing {
+  font-style:        italic;
+}
+.canceled {
+  color:             #999999;
+}
+
+.actionbutton, .navbutton {
+  display:           inline-block;
+  margin:            0.5em;
+  border:            2pt outset;
+  padding:           0.5em;
+}

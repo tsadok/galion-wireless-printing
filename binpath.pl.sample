@@ -1,0 +1,54 @@
+#!/usr/bin/perl
+# -*- cperl -*-
+
+%main::binpath = (
+                  # process.pl will use kill in order to kill off old/stuck versions of itself, in
+                  # the event that situation ever comes up.  (In principle it shouldn't happen...)
+                  kill        => "/bin/kill",
+                  # I doubt if kill actually needs anything to be in $ENV{PATH}, but if it does:
+                  killpath    => undef,
+
+                  # process.pl needs OO.o or libreoffice to convert office-format documents to PDF.
+                  openoffice  => "/usr/bin/libreoffice",
+                  # process.pl sets $ENV{PATH} to this when calling OO.o or libreoffice:
+                  officepath  => '/usr/bin/libreoffice:/bin:/usr/bin',
+
+                  # process.pl uses mv to retrieve PDFs created by OO.o or libreoffice, from
+                  # workdirs.  This is to work around the fact that OO.o/lo doesn't provide a
+                  # command-line argument for specifying the full pathname of the PDF file.
+                  mv          => "/bin/mv",
+                  # I doubt if mv actually needs anything to be in $ENV{PATH}, but if it does:
+                  mvpath      => "/bin",
+
+                  # process.pl uses pandoc to convert HTML to PDF:
+                  pandoc      => "/usr/bin/pandoc",
+                  # process.pl sets $ENV{PATH} to this when calling pandoc; it must meed the
+                  # requirements of wkhtmltopdf:
+                  pandocpath  => '/usr/bin',
+
+                  # process.pl uses chown and chgrp for permissions management:
+                  chown       => "/bin/chown",
+                  chgrp       => "/bin/chgrp",
+                  # And when calling those, it sets $ENV{PATH} to this:
+                  chownpath   => "/bin",
+                  # Note: there's no chgrppath; chownpath must work for chgrp too.
+
+                  # process.pl autodetect() uses file to figure out what kind of file a job is.
+                  file        => "/usr/bin/file",
+                  # And when calling that, set $ENV{PATH} to this:
+                  filepath    => undef,
+
+                  # process.pl uses these, as set up in fileformatlist.pl:
+                  gunzip         => "/bin/gunzip",
+                  bunzip2        => "/bin/bunzip2",
+                  unxz           => "/usr/bin/unxz",
+                  # And the $ENV{PATH} setting for those:
+                  uncompresspath => "/bin:/usr/bin",
+
+                  # queue.cgi uses lp to actually send things to the printer.
+                  lp             => "/usr/bin/lp",
+                  # And the $ENV{PATH} setting for that is:
+                  lppath         => undef,
+                 );
+
+42;

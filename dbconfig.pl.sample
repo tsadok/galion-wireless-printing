@@ -1,0 +1,16 @@
+#!/usr/bin/perl
+
+package dbconfig;
+
+our $database = 'wirelessprint';
+our $host     = 'localhost';
+our $user     = 'wprintuser';
+our $password = 'practicum-illumiyum-nazorite-tsveriferm';
+
+%main::dbconfig =
+  (
+   database => $database,
+   host     => $host,
+   user     => $user,
+   password => $password,
+  );

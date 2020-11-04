@@ -1,0 +1,12 @@
+#!/usr/bin/perl
+
+our $popcredentials =
+  +{
+    server   => "mail.example.com",
+    port     => 110,
+    username => "wirelessprint",
+    password => "punterest-rhamistadt-innosent-namnam-torpidinous",
+   };
+
+42;
+

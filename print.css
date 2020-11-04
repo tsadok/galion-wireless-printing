@@ -1,0 +1,13 @@
+html {
+  color:              #000000;
+  background-color:   #FFFFFF;
+}
+
+table.table tbody th,
+table.table tbody td {
+  border-top:        4pt solid #EEEEEE;
+}
+
+div.menubar {
+  display:           none;
+}

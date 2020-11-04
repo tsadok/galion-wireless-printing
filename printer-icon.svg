@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="160"
+   height="160"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="printer-icon.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0"
+   sodipodi:modified="true"
+   inkscape:export-filename="/media/vfat/nathan/images/svg/printer-icon.png"
+   inkscape:export-xdpi="9"
+   inkscape:export-ydpi="9">
+  <title
+     id="title2996">Printer Icon</title>
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 97.111732 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="294.99426 : 97.111732 : 1"
+       inkscape:persp3d-origin="147.49713 : 64.741155 : 1"
+       id="perspective23" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#bebebe"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="35.245605"
+     inkscape:cy="61.822309"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1530"
+     inkscape:window-height="961"
+     inkscape:window-x="33"
+     inkscape:window-y="0"
+     showgrid="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="false"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3205"
+       visible="true"
+       enabled="true"
+       spacingx="10px"
+       spacingy="10px"
+       empcolor="#0000ff"
+       empopacity="0.43529412" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Printer Icon</dc:title>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Public Domain</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Galion Public Library</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>printer</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-231.47179,-352.6594)">
+    <path
+       style="fill:#969696;fill-rule:evenodd;stroke:#000000;stroke-width:9.71982288000000061;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       d="M 370.19475,418.45861 C 375.16307,418.17166 386.84183,437.43919 386.70381,442.10231 C 386.55731,447.05209 386.74456,486.31157 386.70381,490.02465 C 386.66308,493.70185 385.08299,493.90327 382.0805,496.05081 C 379.07801,498.19836 244.45208,498.21239 241.25861,496.05081 C 238.06511,493.88924 236.36129,494.6329 236.29025,490.88554 C 236.21153,486.73248 236.24863,447.64742 236.29025,442.10231 C 236.33186,436.55933 247.08532,417.78449 252.35138,417.88468 C 257.42226,417.98492 365.23405,418.74514 370.19475,418.45861 z"
+       id="path2203"
+       sodipodi:nodetypes="czzzzzzzz" />
+    <rect
+       style="fill:#353749;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.12257051000000008;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3229"
+       width="50"
+       height="30.750008"
+       x="331.4718"
+       y="452.65939"
+       rx="2"
+       ry="2" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#3d3d3d;stroke-width:9.13525295;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 261.79542,437.24542 L 256.31979,437.26338 L 256.31544,438.89891 L 366.92127,438.89891 L 366.95636,437.43928 L 360.84542,437.41077"
+       id="path3198"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 234.80681,441.56791 L 251.66765,441.56791 C 291.43062,455.95768 332.29278,456.32058 372.24789,441.56791 L 389.02864,441.56791"
+       id="path3194"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:9.7983551;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 266.32548,435.32485 C 266.32548,435.32485 266.32548,370.7671 266.32548,369.79827 C 266.32548,368.89443 267.29384,367.71805 268.47422,367.71805 C 269.72381,367.71805 352.7568,367.71805 354.2161,367.71805 C 355.81371,367.71805 356.43417,368.80113 356.43417,370.05829 C 356.43417,371.44484 356.43417,435.58488 356.43417,435.58488"
+       id="path3196"
+       sodipodi:nodetypes="czzzzc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 281.70972,387.77264 L 341.84911,387.77264"
+       id="path3202" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 281.5009,407.60502 L 341.64031,407.60502"
+       id="path3206" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 281.54215,428.27555 L 341.68154,428.27555"
+       id="path3217" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.12257051;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3224"
+       width="10.000001"
+       height="10.000007"
+       x="251.47179"
+       y="452.65939"
+       rx="1.9999993"
+       ry="2" />
+    <rect
+       style="fill:#49ff25;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.12257051000000008;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3223"
+       width="10.000001"
+       height="10.000007"
+       x="361.4718"
+       y="462.65939"
+       rx="1.9999993"
+       ry="2" />
+    <rect
+       style="fill:#d1a800;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.12257051000000008;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3225"
+       width="10.000001"
+       height="10.000007"
+       x="351.2218"
+       y="462.65939"
+       rx="1.9999993"
+       ry="2" />
+    <rect
+       style="fill:#930000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.12257051000000008;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3227"
+       width="10.000001"
+       height="10.000007"
+       x="341.4718"
+       y="462.65939"
+       rx="1.9999993"
+       ry="2" />
+  </g>
+</svg>
