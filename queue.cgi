@@ -267,13 +267,13 @@ sub viewqueue {
          ($$j{flags} =~ /W/) ? " via web form" :
          "");
       my ($statusclass) = (lc $status) =~ /^(\w+)/;
-      my $notes = encode_entities($$j{notes});
+      my $notes = encode_entities($$j{notes} || "");
       my @action;
       my $pagecount = "??";
       if ($statusclass eq "ready") {
         push @action, qq[<span class="actionbutton"><a href="queue.cgi?action=print&amp;job=$$j{id}">Print</a></span>];
         $pagecount = $$j{pages} || getpagecount($$j{filename});
-        if (not ($$j{pages} == $pagecount)) {
+        if (not (($$j{pages} || -65535) == ($pagecount || 0))) {
           $$j{pages} = $pagecount;
           updaterecord("printjob", $j);
         }
